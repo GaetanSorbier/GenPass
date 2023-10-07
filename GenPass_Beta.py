@@ -9,7 +9,7 @@ print(Fore.BLUE + """  ________                 __________
 \     \_\  \\  ___/ |   |  \ |    |     / __ \_ \___ \  \___ \ 
  \______  / \___  >|___|  / |____|    (____  //____  >/____  >
         \/      \/      \/                 \/      \/      \/ 
-                                                     By Gam's\n""")
+                                            By Gaetan Sorbier\n""")
 
 print(Fore.GREEN + "1- Mot de passe normal : 8 caractères , contenant lettres majuscules et minuscules avec chiffres\n2- Mot de passe sécurisé : Plus de 8 caractères contenant lettres majuscules et minuscules , avec chiffres et caractères spéciaux\n")
 level = input("Choisissez une option : ")
