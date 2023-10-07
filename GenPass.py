@@ -9,7 +9,7 @@ print(Fore.BLUE + """  ________                 __________
 \     \_\  \\  ___/ |   |  \ |    |     / __ \_ \___ \  \___ \ 
  \______  / \___  >|___|  / |____|    (____  //____  >/____  >
         \/      \/      \/                 \/      \/      \/ 
-                                                     By Gam's\n""")
+                                            By Gaetan Sorbier\n""")
 
 print(Fore.GREEN + "1 - Mot de passe normal : 8 caractères , contenant lettres majuscules et minuscules avec chiffres\n2 - Mot de passe sécurisé : Plus de 8 caractères contenant lettres majuscules et minuscules , avec chiffres et caractères spéciaux\n3 - Mot de passe Ultra Pro Max : Le mot de passe du chef !\n4 - Mot de passe personalisable : Choisissez le nombre de caractères que contiendra votre mot de passe\n")
 level = input("Choisissez une option : ")
